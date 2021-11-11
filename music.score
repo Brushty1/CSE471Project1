@@ -1,0 +1,2505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="240" beatspermeasure="1">
+     <instrument instrument="AdditiveInstrument">
+          <harmonics measure="1" duration="0.4" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="3" duration="0.4" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="5" duration="0.4" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="7" duration="0.4" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="9" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="10" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1100">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="11" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1200">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="13" duration="0.5" attack="0.07" decay="0.03" release="0.1" frequency="1300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="17" duration="0.4" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="19" duration="0.4" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="21" duration="0.4" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="23" duration="0.4" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="25" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="26" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="900">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="27" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="800">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="29" duration="0.5" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="33" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="34" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="35" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="36" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="37" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="38" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1100">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="39" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1200">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="40" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="41" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="42" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="43" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="44" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="45" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="46" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="900">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="47" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="800">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="48" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="49" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="50" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="51" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="52" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="53" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="54" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1100">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="55" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1200">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="56" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="57" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="58" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="59" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="60" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="61" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="62" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="900">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="63" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="800">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="64" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="65" duration="0.50" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="67" duration="0.50" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="69" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1100">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="70" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1200">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="71" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="73" duration="0.50" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="75" duration="0.50" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="77" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1100">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="78" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1200">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="79" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="900">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="81" duration="0.50" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="83" duration="0.50" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="85" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1100">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="86" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1200">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="87" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="89" duration="0.50" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="91" duration="0.50" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="93" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1200">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="94" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="900">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="95" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="800">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="96" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="97" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="98" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="99" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="100" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="101" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="102" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="103" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="104" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="105" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="106" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="107" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="108" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="109" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="110" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="111" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="112" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="113" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="114" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="115" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="116" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="117" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="118" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="119" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="120" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="121" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="122" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="123" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="124" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="125" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="126" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="127" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="128" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="129" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="130" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="131" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="132" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="133" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="134" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="135" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="136" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="137" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="138" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="139" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="140" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="141" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="142" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="143" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="144" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="145" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="146" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="147" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="148" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="149" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="150" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="151" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="152" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="153" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="154" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="155" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="156" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="157" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="158" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="159" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="160" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="161" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="162" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="163" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="164" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="165" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="166" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1100">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="167" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1200">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="168" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="169" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="170" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="171" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="172" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="173" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="174" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="900">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="175" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="800">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="176" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="177" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="178" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="179" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="180" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="181" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="182" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1100">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="183" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1200">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="184" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="185" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="186" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="187" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="188" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="189" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="190" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="900">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="191" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="800">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="192" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="1.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="1.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="1.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="193" duration="0.50" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/> ////////////////////////////////////////////////
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/> ///////////////////////////////////////////////
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="195" duration="0.50" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="197" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1100">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="198" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1200">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="199" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="201" duration="0.50" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="203" duration="0.50" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="205" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1100">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="206" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1200">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="207" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="900">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="209" duration="0.50" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="211" duration="0.50" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="213" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1100">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="214" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1200">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="215" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="217" duration="0.50" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="219" duration="0.50" attack="0.07" decay="0.03" release="0.1" frequency="1000">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="221" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="1200">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="222" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="900">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="223" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="800">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="224" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="700">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="1.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="1.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="1.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="225" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="226" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="227" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="228" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="229" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="230" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="231" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="232" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="233" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="234" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="235" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="236" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="237" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="238" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="239" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="240" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="241" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="242" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="243" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="244" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="245" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="246" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="247" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="248" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="249" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="250" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="251" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="252" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="253" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="254" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="255" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="256" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="257" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="258" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="259" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="260" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="261" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="262" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="263" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="264" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="265" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="266" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="267" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="268" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="269" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="270" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="271" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="272" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="273" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="274" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="275" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="276" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="277" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="278" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="279" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="280" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="500">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="281" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="282" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="283" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="284" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="400">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="285" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="286" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="287" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="288" duration="0.25" attack="0.07" decay="0.03" release="0.1" frequency="300">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.5"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.5"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+     </instrument>
+</score>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="240" beatspermeasure="1">
+     <instrument instrument="AdditiveInstrument">
+          <harmonics measure="1" duration="0.5" attack="0.1" decay="0.05" release="0.1" frequency="200">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="4" duration="5.0" attack="1.0" decay="0.2" release="1.0" frequency="200">
+               <harmonic harmonic="1" amplitude="1.0"/>
+               <harmonic harmonic="2" amplitude="0.0"/>
+               <harmonic harmonic="3" amplitude="0.0"/>
+               <harmonic harmonic="4" amplitude="0.0"/>
+               <harmonic harmonic="5" amplitude="0.0"/>
+               <harmonic harmonic="6" amplitude="0.0"/>
+               <harmonic harmonic="7" amplitude="0.0"/>
+               <harmonic harmonic="8" amplitude="0.0"/>
+          </harmonics>
+          <harmonics measure="26" duration="0.5" attack="0.1" decay="0.05" release="0.1" frequency="200">
+               <harmonic harmonic="1" amplitude="0.3"/>
+               <harmonic harmonic="2" amplitude="0.4"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.6"/>
+               <harmonic harmonic="5" amplitude="0.7"/>
+               <harmonic harmonic="6" amplitude="0.8"/>
+               <harmonic harmonic="7" amplitude="0.9"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+          <harmonics measure="29" duration="5.0" attack="1.0" decay="0.2" release="1.0" frequency="200">
+               <harmonic harmonic="1" amplitude="0.3"/>
+               <harmonic harmonic="2" amplitude="0.4"/>
+               <harmonic harmonic="3" amplitude="0.5"/>
+               <harmonic harmonic="4" amplitude="0.6"/>
+               <harmonic harmonic="5" amplitude="0.7"/>
+               <harmonic harmonic="6" amplitude="0.8"/>
+               <harmonic harmonic="7" amplitude="0.9"/>
+               <harmonic harmonic="8" amplitude="1.0"/>
+          </harmonics>
+     </instrument>
+</score>
